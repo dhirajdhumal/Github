@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div style={{textAlign: 'center', marginTop: '20px'}}>
-        Hey Dhiraj Dhumal
+        Hey Dhiraj Babasaheb Dhumal
       </div>
      
     </>
